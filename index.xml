@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>/clusterfrak-dynamics</title>
+    <link>https://clusterfrak-dynamics.github.io/</link>
+    <description>Recent content on /clusterfrak-dynamics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 10 Jan 2019 11:11:40 +0100</lastBuildDate>
+    
+	<atom:link href="https://clusterfrak-dynamics.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>clusterfrak-dynamics</title>
+      <link>https://clusterfrak-dynamics.github.io/about-clusterfrak-dynamics/</link>
+      <pubDate>Thu, 10 Jan 2019 11:11:40 +0100</pubDate>
+      
+      <guid>https://clusterfrak-dynamics.github.io/about-clusterfrak-dynamics/</guid>
+      <description>/dev/null
+More&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>symplegma</title>
+      <link>https://clusterfrak-dynamics.github.io/about-symplegma/</link>
+      <pubDate>Thu, 10 Jan 2019 11:11:40 +0100</pubDate>
+      
+      <guid>https://clusterfrak-dynamics.github.io/about-symplegma/</guid>
+      <description>Symplegma (from greek σύμπλεγμα) is a simple set of Ansible playbooks to deploy Kubernetes with Kubeadm. It is heavily inspired by Kubespray and OpenStack Ansible.
+The main goal is to be minimalist with sensible defaults.
+More&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>tEKS</title>
+      <link>https://clusterfrak-dynamics.github.io/about-teks/</link>
+      <pubDate>Thu, 10 Jan 2019 11:11:40 +0100</pubDate>
+      
+      <guid>https://clusterfrak-dynamics.github.io/about-teks/</guid>
+      <description>tEKS is full feature set of Terraform/Terragrunt modules to deploy an EKS cluster on AWS. It ships with sensible default and opinionated addons to get a production cluster up and running in no time.
+More&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>tGKE</title>
+      <link>https://clusterfrak-dynamics.github.io/about-tgke/</link>
+      <pubDate>Thu, 10 Jan 2019 11:11:40 +0100</pubDate>
+      
+      <guid>https://clusterfrak-dynamics.github.io/about-tgke/</guid>
+      <description>tGKE is full feature set of Terraform/Terragrunt modules to deploy a GKE cluster on GCP. It ships with sensible default and opinionated addons to get a production cluster up and running in no time.
+More&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>
